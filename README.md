@@ -1,10 +1,8 @@
-Amit Kumar --- Full Stack Developer Portfolio
+Amit Kumar — Full Stack Developer Portfolio
 
-A modern, responsive personal portfolio built with React, Vite,
-and Tailwind CSS to showcase my skills, projects, DSA practice, and
-contact information.
+A modern, responsive personal portfolio built with React, Vite, and Tailwind CSS to showcase my skills, projects, DSA practice, and contact information.
 
-🌐 Live Portfolio: https://amit-portfolio-three-alpha.vercel.app/
+🌐 Live Portfolio: amit-portfolio-three-alpha.vercel.app
 
 ✨ Features
 
@@ -26,53 +24,71 @@ Developer-focused skills and project showcase
 
 🛠️ Tech Stack
 
-Frontend: HTML5, CSS3, JavaScript, React.js, Tailwind CSS
+Frontend
 
-Tools: Vite, Git, GitHub, VS Code, IntelliJ IDEA
+HTML5
 
-Other: Data Structures & Algorithms, Responsive Web Design
+CSS3
+
+JavaScript
+
+React.js
+
+Tailwind CSS
+
+Tools
+
+Vite
+
+Git
+
+GitHub
+
+VS Code
+
+IntelliJ IDEA
+
+Other
+
+Data Structures & Algorithms
+
+Responsive Web Design
 
 🚀 Projects
 
-Munch --- Full Stack Food Ordering Application
+1. Munch — Full Stack Food Ordering Application
 
-A full-stack food ordering application with user registration, JWT
-authentication, food browsing, search, cart management, and order
-placement.
+A full-stack food ordering application with user registration, JWT authentication, food browsing, search, cart management, and order placement.
 
 Tech: React.js, Node.js, Express.js, Prisma, MySQL
 
-Live: https://munch-app-five.vercel.app/
+🌐 Live Demo
 
-GitHub: https://github.com/Amit01verma/Munch-App
+💻 GitHub Repository
 
-BMI Calculator --- React Web Application
+2. BMI Calculator — React Web Application
 
-A responsive BMI calculator with real-time input handling, state
-management, input validation, and error handling.
+A responsive BMI calculator with real-time input handling, state management, input validation, and error handling.
 
 Tech: React.js, JavaScript
 
-Live: https://bmi-calculator-react-6iqi.vercel.app/
+🌐 Live Demo
 
-GitHub: https://github.com/Amit01verma/bmi-calculator-react
+💻 GitHub Repository
 
-Interactive Golf Website
+3. Interactive Golf Website
 
-A responsive golf-themed website featuring GSAP-powered animations,
-scroll-triggered effects, custom cursor interactions, and an engaging
-user interface.
+A responsive golf-themed website featuring GSAP-powered animations, scroll-triggered effects, custom cursor interactions, and an engaging user interface.
 
 Tech: HTML, CSS, JavaScript, GSAP
 
-Live: https://interactive-golf-website.vercel.app/
+🌐 Live Demo
 
-GitHub: https://github.com/Amit01verma/interactive-golf-website
+💻 GitHub Repository
 
 🧠 DSA & Problem Solving
 
-I actively practice Data Structures and Algorithms to strengthen
-problem-solving and logical thinking skills.
+I actively practice Data Structures and Algorithms to strengthen problem-solving and logical thinking skills.
 
 Data Structures
 
@@ -118,12 +134,17 @@ Logical Thinking
 
 Prerequisites
 
-Make sure Node.js and npm are installed.
+Make sure Node.js and npm are installed on your system.
 
 Installation
 
+Clone the repository:
+
 git clone https://github.com/Amit01verma/amit-portfolio.git
 cd amit-portfolio
+
+Install dependencies:
+
 npm install
 
 Run Locally
@@ -168,19 +189,18 @@ amit-portfolio/
 
 🌐 Deployment
 
-The portfolio is deployed on Vercel and connected to the main
-branch of this GitHub repository.
+The portfolio is deployed on Vercel and connected to the main branch of this GitHub repository.
 
-Live: https://amit-portfolio-three-alpha.vercel.app/
+Live Portfolio: amit-portfolio-three-alpha.vercel.app
 
 📬 Contact
 
 Amit Kumar
 
-Email: amitkr15104@gmail.com
+📧 Email: amitkr15104@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/amit-kumar-657434249/
+💼 LinkedIn: linkedin.com/in/amit-kumar-657434249
 
-GitHub: https://github.com/Amit01verma/
+💻 GitHub: github.com/Amit01verma
 
 Built with React & Tailwind CSS
